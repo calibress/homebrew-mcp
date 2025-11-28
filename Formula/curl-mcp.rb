@@ -1,8 +1,8 @@
 class CurlMcp < Formula
   desc "curl-mcp MCP HTTP client for Model Context Protocol tools"
   homepage "https://github.com/calibress/curl-mcp"
-  url "https://github.com/calibress/curl-mcp/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "a5edab55cafea4f3f98721a5a171422261894d564197907258119426fdfa740d"
+  url "https://github.com/calibress/curl-mcp/archive/refs/tags/v0.0.4.tar.gz"
+  sha256 "605fee3131d6056d9363436a1f6df00eba5eb7cc5c00d9eb45b9ae1641c62e55"
   license "MIT"
 
   head "https://github.com/calibress/curl-mcp.git", branch: "main"
